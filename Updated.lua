@@ -1,12 +1,3 @@
---[[
-   _____           _       __     ____           ____  ____  _   ____  __
-                                                Chaos Developer 
-                                              https://VybsX.com/  
-                                                          /_/ 
-                            If your confused With why there is 2 mods for the guns 
-         its so you can find the best one for you so try 1 and 2 and see witch is better for you                    
-]]
-
 --SETTINGS-------------------------------------------------------
 local SENSITIVITY = 0.0 --set your own Sens
 local ADS_SENSITIVITY = 0.0 --set your own fov ADS sensitivity
